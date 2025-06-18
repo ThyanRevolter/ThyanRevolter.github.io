@@ -4,7 +4,7 @@ collection: teaching
 type: "Community Education"
 permalink: /teaching/stanford-yoga-instructor
 venue: "Stanford University"
-date: 2022-01-01
+date: January 2022
 location: "Stanford, CA"
 ---
 

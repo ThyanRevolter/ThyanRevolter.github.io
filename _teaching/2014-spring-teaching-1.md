@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Research Mentorship"
 permalink: /teaching/stanford-research-mentor
 venue: "Stanford University, SURGE & MUIR Fellowships"
-date: 2024-05-01
+date: May 2024
 location: "Stanford, CA"
 ---
 
