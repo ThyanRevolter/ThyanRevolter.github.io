@@ -6,6 +6,7 @@ excerpt: 'This paper presents a novel energy-efficient ride-sharing algorithm th
 date: May 2022
 venue: 'Stanford University Course Project'
 citation: 'Jayakrishnan, S., Sakthivelu, A. (2022). &quot;An Energy-Efficient Ride-Sharing Algorithm Using Distributed Convex Optimization.&quot; <i>Stanford University Course Project</i>.'
+category: conferences
 ---
 Developed a ride-sharing optimization with focus on energy-efficiency and decentralized decision-making (ADMM) agents for rider pickup and drop-off, as part of localized clusters of connected cars.
 
