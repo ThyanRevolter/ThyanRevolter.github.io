@@ -1,152 +1,301 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Adhithyan Sakthivelu",
+    "email": "adhiths@utexas.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ThyanRevolter.github.io",
+    "summary": "PhD Student at The University of Texas at Austin in the Department of Civil, Architectural and Environmental Engineering. Research interests in Optimization and Control of Water-Energy Systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Austin, Texas",
       "countryCode": "US",
-      "region": ""
+      "region": "TX"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "aKTIsW4AAAAJ",
+        "url": "https://scholar.google.com/citations?user=aKTIsW4AAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0000-0002-3826-8112",
+        "url": "https://orcid.org/0000-0002-3826-8112"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ThyanRevolter",
+        "url": "https://github.com/ThyanRevolter"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Deloitte US India Consulting",
+      "position": "Consultant",
+      "website": "",
+      "startDate": "2018-08",
+      "endDate": "2021-08",
+      "summary": "Analyzed and processed raw customer data, transformed them to Salesforce compatible schema, and built automated algorithm for data housekeeping. Customized and configured Salesforce Lightning Platform and Apttus CPQ managed package for Lead-to-Cash lifecycle.",
+      "highlights": [
+        "Data analysis and transformation for Salesforce compatibility",
+        "Automated data housekeeping algorithms",
+        "Salesforce Lightning Platform configuration",
+        "Apttus CPQ managed package customization"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "The University of Texas at Austin",
+      "area": "PhD in Civil, Architectural and Environmental Engineering",
+      "studyType": "PhD",
+      "startDate": "2024",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Stanford University",
+      "area": "Master of Science in Civil and Environmental Engineering - Atmosphere & Energy",
+      "studyType": "MS",
+      "startDate": "2021",
+      "endDate": "2023-06",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Electricity Markets",
+        "Electricity Economics", 
+        "Engineering Future Electricity Systems",
+        "Convex Optimization",
+        "Decision Making Under Uncertainty",
+        "Data Structures and Algorithms",
+        "Engineering Optimization",
+        "Digital Signal Processing",
+        "Product Design",
+        "Advanced Feedback Control"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "National Institute of Technology, Trichy",
+      "area": "Bachelor of Technology in Instrumentation and Control Engineering",
+      "studyType": "BTech",
+      "startDate": "2014",
+      "endDate": "2018-06",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Julia", 
+        "MATLAB",
+        "Java",
+        "Apex (Salesforce)",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Mathematical Modeling and Optimization",
+      "level": "",
+      "keywords": [
+        "CVXpy",
+        "Pyomo", 
+        "MATLAB",
+        "Convex.jl"
+      ]
+    },
+    {
+      "name": "Testing and Development",
+      "level": "",
+      "keywords": [
+        "Pytest",
+        "Unittest",
+        "Git",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Geographic Information Systems",
+      "level": "",
+      "keywords": [
+        "QGIS",
+        "PyQGIS",
+        "GeoPandas",
+        "ArcGIS",
+        "ArcGIS Online"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": [
+        "SQL Database",
+        "MS Excel - Advanced"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Energy Systems",
+      "keywords": [
+        "Water-Energy Systems",
+        "Demand Response",
+        "Transactive Energy Systems",
+        "Distributed Energy Resources"
+      ]
+    },
+    {
+      "name": "Optimization",
+      "keywords": [
+        "Model Predictive Control",
+        "Monte Carlo Methods",
+        "Convex Optimization",
+        "Distributed Optimization"
+      ]
+    },
+    {
+      "name": "Sustainability",
+      "keywords": [
+        "Renewable Energy",
+        "Energy Efficiency",
+        "Climate Change Mitigation"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Auction Theory and Device Bidding Functions for Transactive Energy Systems: A Review",
+      "publisher": "Current Sustainable/Renewable Energy Reports",
+      "releaseDate": "2023-09",
+      "website": "",
+      "summary": "Comprehensive review of auction theory and device bidding functions for transactive energy systems. Equal contribution with A. Sreekumar.",
+      "authors": "A. Sreekumar*, A. Sakthivelu*, and L. Kiesling",
+      "doi": "10.1007/s40518-023-00217-2"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A Real-Time Limit Order Book as a Market Mechanism for Transactive Energy Systems",
+      "publisher": "IEEE Power & Energy Society General Meeting (PESGM)",
+      "releaseDate": "2023-07",
+      "website": "",
+      "summary": "Published a novel LOB market mechanism for price discovery and order-matching for real-time retail electricity markets. Selected as one of the best conference papers.",
+      "authors": "A. Sreekumar, A. Sakthivelu, R. Baltaduonis, L. Kiesling, S. Hoedl, and D. P. Chassin",
+      "doi": "10.1109/PESGM52003.2023.10252385"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Risk-aware bidding strategy for industrial participation in DR markets",
+      "event": "Research Paper - In Preparation",
+      "date": "2023-06",
+      "location": "Stanford, CA",
+      "description": "Developed risk-aware optimal bidding strategies using Monte Carlo methods, model predictive control, and grid-search; implemented in case study wastewater treatment facilities. Designed a parametric modular DR event simulator for stochastic analysis."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Heuristic bidding strategies for DERs in TESS Markets",
+      "event": "DOE Connected Communities Project",
+      "date": "2022-04",
+      "location": "Menlo Park, CA",
+      "description": "Formulated heuristic bidding strategies for HVAC, batteries, and EVs (DERs) based on customer preferences and market data for maximizing utility. Validated the strategies with physical devices using EcoPort, Emporia and Tesla fleet API communication protocols."
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "A real-time limit orderbook framework for TESS",
+      "event": "IEEE PESGM'23",
+      "date": "2023-07",
+      "location": "Menlo Park, CA",
+      "description": "Published a novel LOB market mechanism for price discovery and order-matching for real-time retail electricity markets; selected as one of the best conference papers."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Research Mentor",
+      "institution": "Stanford University, SURGE & MUIR Fellowships",
+      "date": "2024-05",
+      "role": "Undergraduate Research Mentor",
+      "description": "Mentored two undergraduate researchers through the SURGE fellowship on creating a machine-readable database for incentive-based DR programs, comprising of 140 programs across utilities in the US."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Climbing Instructor",
+      "institution": "Stanford Outdoor and Recreation Center",
+      "date": "2022-01",
+      "role": "Instructor",
+      "description": "Conducted indoor rock-climbing classes based on experiential learning, with focus on rope safety, injury prevention and physical efficiency skills."
+    },
+    {
+      "course": "Yoga Instructor",
+      "institution": "Stanford University",
+      "date": "2022",
+      "role": "Community Instructor",
+      "description": "Organized yoga sessions for community building, with focus on creative expression of movement and breathwork. Completed Diploma in Yoga Education and Therapy from Sri Paranjothi Yoga College, India."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Online US Wind Energy Atlas for potential windfarm development",
+      "category": "Web Development",
+      "date": "2021-05",
+      "url": "windenergyatlas.stanford.edu",
+      "description": "Built a website tool for energy developers and policy makers to disseminate feasible areas of windfarm development in the United States using ArcGIS online platform; got presented at Glasgow COP26."
+    },
+    {
+      "name": "Optimized Operation of HVAC system with TOU electricity pricing and weather prediction data",
+      "category": "Course Project",
+      "date": "2022-03",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Created a physics-based (ETP) MPC model for electric heat pumps that minimizes the total cost while maintaining comfort for the customers given the electricity retail price and weather prediction."
+    },
+    {
+      "name": "An Energy-Efficient Ride-Sharing Algorithm Using Distributed Convex Optimization",
+      "category": "Course Project",
+      "date": "2022-03",
+      "url": "",
+      "description": "Developed a ride-sharing optimization with focus on energy-efficiency and decentralized decision-making (ADMM) agents for rider pickup and drop-off, as part of localized clusters of connected cars."
+    }
+  ],
+  "research": [
+    {
+      "institution": "Water & Energy Efficiency for the Environment (WE3) Lab, Stanford University",
+      "position": "Research Assistant",
+      "supervisor": "Prof. Meagan Mauter",
+      "startDate": "2023-04",
+      "endDate": "Present",
+      "description": "Developing energy optimization algorithms and bidding strategies for water and industrial systems in demand response and energy markets."
+    },
+    {
+      "institution": "SLAC National Accelerator Lab & Post Road Foundation",
+      "position": "Research Assistant", 
+      "supervisor": "Dr. David P. Chassin",
+      "startDate": "2022-04",
+      "endDate": "Present",
+      "description": "Developing distributed energy resource (DER) bidding strategies and designing markets for transactive (peer-to-peer) energy system services (TESS)."
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Energy Focus Area Lead",
+      "organization": "Stanford Doerr-IITB Workshop on Sustainability",
+      "date": "2024-06",
+      "description": "Led four-day breakout room discussions with faculties from Stanford and IIT Bombay on collaborative research opportunities between the two institutions, resulting in a white paper."
+    },
+    {
+      "role": "President",
+      "organization": "Nakshatra, The Astronomy Club of NIT Trichy",
+      "date": "2017-2018",
+      "description": "Managed the administrative activities of the club, and organized \"Stardust,\" a two-day inter-mural astronomy fest with expert lectures, workshops, and stargazing sessions."
+    }
+  ],
+  "affiliations": [
+    {
+      "organization": "IEEE",
+      "role": "Student Member",
+      "startDate": "2023",
+      "endDate": "Present"
     }
   ]
 }

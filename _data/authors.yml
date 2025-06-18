@@ -1,13 +1,18 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Adhithyan Sakthivelu:
+  name        : "Adhithyan Sakthivelu"
+  uri         : "https://ThyanRevolter.github.io"
+  email       : "adhiths@utexas.edu"
+  bio         : "I am a PhD Student at The University of Texas at Austin in the Department of Civil, Architectural and Environmental Engineering. My research interests are in the field of Optimization and Control of Water-Energy Systems"
+  avatar      : "profile.jpg"
+  twitter     : ""
+  google_plus : ""
+  github      : "ThyanRevolter"
+  googlescholar: "https://scholar.google.com/citations?user=aKTIsW4AAAAJ&hl=en"
+  orcid       : "https://orcid.org/0000-0002-3826-8112"
+  location    : "Austin, Texas, USA"
+  employer    : "The University of Texas at Austin"
 
 Name2 Name2:
   name        : "Name2 Name2"
