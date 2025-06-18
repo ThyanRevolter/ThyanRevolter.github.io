@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil, Architectural and Environmental Engineering, The University of Texas at Austin, 2024-Present
+* M.S. in Civil and Environmental Engineering - Atmosphere & Energy, Stanford University, 2021-2023
+* B.Tech in Instrumentation and Control Engineering, National Institute of Technology, Trichy, 2014-2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-Present: PhD Student
+  * The University of Texas at Austin
+  * Research interests in Optimization and Control of Water-Energy Systems
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2021: Consultant
+  * Deloitte US India Consulting
+  * Duties included: Data analysis and transformation for Salesforce compatibility, automated data housekeeping algorithms, Salesforce Lightning Platform configuration, Apttus CPQ managed package customization
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, Julia, MATLAB, Java, Apex (Salesforce), LaTeX
+* Mathematical Modeling and Optimization
+  * CVXpy, Pyomo, MATLAB, Convex.jl
+* Testing and Development
+  * Pytest, Unittest, Git, GitHub Actions
+* Geographic Information Systems
+  * QGIS, PyQGIS, GeoPandas, ArcGIS, ArcGIS Online
+* Data Analysis
+  * SQL Database, MS Excel - Advanced
 
 Publications
 ======
@@ -47,11 +44,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -59,6 +56,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Interests
 ======
-* Currently signed in to 43 different slack teams
+* Research interests in Water-Energy Systems, Demand Response, Transactive Energy Systems, and Distributed Energy Resources

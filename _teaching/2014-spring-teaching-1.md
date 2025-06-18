@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Research Mentor"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Research Mentorship"
+permalink: /teaching/stanford-research-mentor
+venue: "Stanford University, SURGE & MUIR Fellowships"
+date: 2024-05-01
+location: "Stanford, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Undergraduate Research Mentor for SURGE fellowship program. Mentored two undergraduate researchers on creating a machine-readable database for incentive-based DR programs, comprising of 140 programs across utilities in the US.
