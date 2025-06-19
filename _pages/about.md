@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Adhithyan Sakthivelu — a researcher at the intersection of energy systems, optimization, and sustainability. I'm currently pursuing my PhD in Civil and Environmental Engineering at UT Austin, and previously worked with the WE3 Lab at Stanford and the GISMo group at SLAC. My research centers on unlocking industrial-scale energy flexibility, especially in water infrastructure, through demand response (DR), distributed energy resources (DERs), and transactive energy markets.
-
-As a research assistant at Stanford's WE3 Lab and SLAC GISMO team, I specialize in developing and testing bidding strategies for Distributed Energy Resources (DER) and water systems in energy markets and demand response markets. I have a background in Instrumentation and Control Engineering from the National Institute of Technology Tiruchirappalli, India and a Master's degree at Stanford, majoring in Civil and Environmental Engineering, with a focused emphasis on energy optimization and control.
+Hi, I'm Adhithyan Sakthivelu — a researcher at the intersection of energy systems, optimization, and sustainability. I'm currently pursuing my PhD in Civil and Environmental Engineering at UT Austin, with Professor [Lina Sila](https://www.caee.utexas.edu/people/faculty/faculty-directory/sela). I have a background in Instrumentation and Control Engineering from the National Institute of Technology Tiruchirappalli, India and a Master's degree at Stanford, majoring in Civil and Environmental Engineering, with a focused emphasis on energy optimization and control. I previously worked with the [WE3 Lab](https://we3lab.stanford.edu/) at Stanford and the [GISMo](https://esd.slac.stanford.edu/divisions/applied-energy) group at SLAC. My research centers on unlocking industrial-scale energy flexibility, especially in water infrastructure, through demand response (DR), distributed energy resources (DERs), and transactive energy markets. 
 
 At heart, I'm driven by a simple question: how can we make complex systems — buildings, batteries, wastewater plants — respond intelligently to the needs of a decarbonizing grid? My interest lies in building risk-aware bidding tools for DR programs, modeling flexible cogeneration strategies, or co-optimizing load under stochastic events.
 
-My technical toolkit includes Pyomo, CVXPY, and custom digital twins for buildings and water networks, often layered with Monte Carlo simulations and market-based decision frameworks. My passion lies in leveraging my expertise to drive advancements in sustainable energy solutions, aiming to contribute to a more efficient and resilient energy landscape for the future.
+My technical toolkit includes modelling and optimization of custom digital twins using Pyomo, CVXPY, for example buildings and water networks. My passion lies in leveraging my expertise to drive advancements in sustainable energy solutions, aiming to contribute to a more efficient and resilient energy landscape for the future.
 
 Outside of research, I find balance through yoga and rock climbing.
 
