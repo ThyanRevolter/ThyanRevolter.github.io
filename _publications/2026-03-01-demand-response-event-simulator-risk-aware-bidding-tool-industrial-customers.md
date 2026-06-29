@@ -5,7 +5,7 @@ permalink: /publication/2026-03-01-demand-response-event-simulator-risk-aware-bi
 link: "https://doi.org/10.1016/j.apenergy.2026.127456"
 paperurl: "https://doi.org/10.1016/j.apenergy.2026.127456"
 excerpt: 'A simulation framework that models demand response (DR) events and a risk-aware bidding tool that helps industrial customers participate in DR programs under uncertainty.'
-date: 2026
+date: 2026-03-01
 venue: 'Applied Energy'
 citation: 'Sakthivelu, A., Chapin, F. T., Bolorinos, J., and Mauter, M. S. (2026). &quot;Demand Response Event Simulator and Risk-Aware Bidding Tool for Industrial Customers.&quot; <i>Applied Energy</i>, 409, 127456.'
 category: manuscripts
