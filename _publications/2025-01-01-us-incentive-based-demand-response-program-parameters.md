@@ -2,6 +2,8 @@
 title: "US incentive based demand response program parameters"
 collection: publications
 permalink: /publication/2025-01-01-us-incentive-based-demand-response-program-parameters
+link: "https://doi.org/10.25740/ck480bd0124"
+paperurl: "https://doi.org/10.25740/ck480bd0124"
 excerpt: 'Database of incentive-based demand response programs across utilities in the US, comprising of 140 programs.'
 date: January 2025
 venue: 'Stanford Digital Repository'

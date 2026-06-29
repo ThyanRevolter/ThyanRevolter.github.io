@@ -2,6 +2,8 @@
 title: "A Real-Time Limit Order Book as a Market Mechanism for Transactive Energy Systems"
 collection: publications
 permalink: /publication/2023-07-01-real-time-limit-order-book-market-mechanism-transactive-energy-systems
+link: "https://arxiv.org/abs/2305.11464"
+paperurl: "https://arxiv.org/abs/2305.11464"
 excerpt: 'This paper presents a novel real-time limit order book market mechanism for transactive energy systems, enabling efficient price discovery and order matching.'
 date: July 2023
 venue: '2023 IEEE Power & Energy Society General Meeting (PESGM)'

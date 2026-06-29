@@ -2,6 +2,8 @@
 title: "Auction Theory and Device Bidding Functions for Transactive Energy Systems: A Review"
 collection: publications
 permalink: /publication/2023-09-01-auction-theory-device-bidding-functions-transactive-energy-systems-review
+link: "https://doi.org/10.1007/s40518-023-00217-2"
+paperurl: "https://doi.org/10.1007/s40518-023-00217-2"
 excerpt: 'This paper provides a comprehensive review of auction theory and device bidding functions for transactive energy systems.'
 date: September 2023
 venue: 'Current Sustainable/Renewable Energy Reports'
